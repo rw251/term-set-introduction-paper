@@ -1,6 +1,6 @@
 # Term Sets: Improving the Reproducibility and Transparency of EHR Studies
 
-[![DOI](https://zenodo.org/badge/xxx.svg)](https://zenodo.org/badge/latestdoi/xxx)
+[![DOI](https://zenodo.org/badge/141592542.svg)](https://zenodo.org/badge/latestdoi/141592542)
 
 Supplementary data for empircal study from our paper introducing term sets.
 
